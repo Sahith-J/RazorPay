@@ -46,6 +46,12 @@ The MCP server is the primary connector interface.
 
 The React/FastAPI/Ollama stack is included as a demo client showing how an agent can use the same connector primitives.
 
+## Demo
+
+The demo client shows a merchant asking a natural-language question while the activity panel exposes the connector tool call used to answer it.
+
+![WooCommerce Support Agent Demo](docs/images/demo.png)
+
 ## Supported Tools
 
 ### Orders
